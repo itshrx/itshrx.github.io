@@ -14,10 +14,10 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: The Linux Choice
+title: Its HRx
 
 # Short description of your site
-description: A virtual proof that name is awesome!
+description: All you need is imagination!
 
 # --- Navigation bar options --- #
 
@@ -74,9 +74,9 @@ author:
 social-network-links:
   rss: true
   email: "someone@example.com"
-  facebook: daattali
-  github: daattali
-  twitter: daattali
+  facebook: None
+  github: itshrx
+  twitter: non
 #  reddit: yourname
 #  google-plus: +DeanAttali
 #  linkedin: daattali
